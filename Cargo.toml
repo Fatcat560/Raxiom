@@ -1,0 +1,11 @@
+[package]
+name = "raxiom"
+version = "0.0.1"
+authors = ["Fatcat560 <s.mario95@googlemail.com>"]
+edition = "2018"
+description = "A toy logic programming language"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+inkwell = "0.1.0-llvm10sample"
